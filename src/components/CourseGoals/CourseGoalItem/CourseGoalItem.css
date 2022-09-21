@@ -1,0 +1,15 @@
+.goal-item {
+  margin: 1rem 0;
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(139,0,93,1) 0%, rgba(144,109,236,1) 100%);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  color: white;
+  padding: 1rem 2rem;
+  cursor: pointer;
+  border-radius: 4px;
+
+    
+}
+.goal-item:hover {
+  transform: scale(0.99);
+}
