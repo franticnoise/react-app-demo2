@@ -3,5 +3,5 @@
 ``` npm install ``` 
 ``` npm install --save styled-components ```
 
-### Start the react project
+### Start the project
 ``` npm start ```
